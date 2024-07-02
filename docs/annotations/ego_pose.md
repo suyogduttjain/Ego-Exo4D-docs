@@ -8,7 +8,9 @@ EgoPose annotations are now available in V2 and V1 of the dataset.
 [Download](/download) with `--parts annotations --benchmarks egopose`. You can
 also download with `--benchmarks handpose` or `--benchmarks bodypose` to filter
 just body or hand pose annotations.
+:::
 
+:::important
 We have also released a [Notebook Tutorial](https://github.com/facebookresearch/Ego4d/blob/main/notebooks/egoexo/Ego-Exo4D_EgoPose_Tutorial.ipynb) covering how to undistort exocentric and egocentric video frames and visualize hand and body pose annotations.
 :::
 
